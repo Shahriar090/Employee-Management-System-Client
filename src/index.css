@@ -18,3 +18,7 @@ body {
   font-family: "Poppins", serif;
   background-color: black;
 }
+
+#task_list::-webkit-scrollbar {
+  display: none;
+}

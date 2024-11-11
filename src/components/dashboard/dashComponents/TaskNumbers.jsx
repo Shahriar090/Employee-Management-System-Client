@@ -1,6 +1,6 @@
 const TaskNumbers = () => {
   return (
-    <div className="flex gap-5 h-screen mt-8">
+    <div className="flex gap-5 mt-8">
       {/* task 1 */}
       <div className="w-1/3 h-36 bg-yellow-500 p-6 rounded-md">
         <h2 className="text-white font-semibold text-4xl">0</h2>
