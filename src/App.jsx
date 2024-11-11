@@ -1,7 +1,11 @@
+import Login from "./components/auth/Login";
+import EmployeeDashboard from "./components/dashboard/EmployeeDashboard";
+
 const App = () => {
   return (
     <div>
-      <h1 className="text-5xl">Hello EMS</h1>
+      <Login />
+      {/* <EmployeeDashboard /> */}
     </div>
   );
 };
