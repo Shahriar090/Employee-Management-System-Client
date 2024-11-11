@@ -4,8 +4,8 @@ import EmployeeDashboard from "./components/dashboard/EmployeeDashboard";
 const App = () => {
   return (
     <div>
-      <Login />
-      {/* <EmployeeDashboard /> */}
+      {/* <Login /> */}
+      <EmployeeDashboard />
     </div>
   );
 };
