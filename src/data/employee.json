@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "email": "employee1@example.com",
+    "password": "123",
+    "tasks": [
+      {
+        "title": "Complete Project Report",
+        "description": "Prepare and submit the project report by end of the week.",
+        "date": "2024-11-14",
+        "category": "Reports",
+        "active": true,
+        "newTask": true,
+        "completed": false,
+        "failed": false
+      },
+      {
+        "title": "Team Meeting",
+        "description": "Attend the team meeting for project discussion.",
+        "date": "2024-11-15",
+        "category": "Meetings",
+        "active": false,
+        "newTask": false,
+        "completed": true,
+        "failed": false
+      },
+      {
+        "title": "Client Follow-up",
+        "description": "Call the client to discuss project requirements.",
+        "date": "2024-11-13",
+        "category": "Client",
+        "active": true,
+        "newTask": false,
+        "completed": false,
+        "failed": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "email": "employee2@example.com",
+    "password": "123",
+    "tasks": [
+      {
+        "title": "Database Optimization",
+        "description": "Optimize the database for faster query response.",
+        "date": "2024-11-18",
+        "category": "Development",
+        "active": true,
+        "newTask": true,
+        "completed": false,
+        "failed": false
+      },
+      {
+        "title": "Code Review",
+        "description": "Review team code submissions for the sprint.",
+        "date": "2024-11-12",
+        "category": "Development",
+        "active": false,
+        "newTask": false,
+        "completed": true,
+        "failed": false
+      },
+      {
+        "title": "Prepare Presentation",
+        "description": "Create slides for the upcoming client presentation.",
+        "date": "2024-11-14",
+        "category": "Presentations",
+        "active": true,
+        "newTask": false,
+        "completed": false,
+        "failed": false
+      },
+      {
+        "title": "Team Feedback",
+        "description": "Provide feedback to team members on performance.",
+        "date": "2024-11-15",
+        "category": "HR",
+        "active": false,
+        "newTask": false,
+        "completed": false,
+        "failed": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "email": "employee3@example.com",
+    "password": "123",
+    "tasks": [
+      {
+        "title": "Bug Fixing",
+        "description": "Resolve bugs reported in the QA testing phase.",
+        "date": "2024-11-17",
+        "category": "Development",
+        "active": true,
+        "newTask": true,
+        "completed": false,
+        "failed": false
+      },
+      {
+        "title": "Client Demo",
+        "description": "Conduct a demo for the client on the new feature release.",
+        "date": "2024-11-16",
+        "category": "Client",
+        "active": false,
+        "newTask": false,
+        "completed": false,
+        "failed": true
+      },
+      {
+        "title": "Documentation",
+        "description": "Complete documentation for the new module.",
+        "date": "2024-11-12",
+        "category": "Documentation",
+        "active": false,
+        "newTask": false,
+        "completed": true,
+        "failed": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "email": "employee4@example.com",
+    "password": "123",
+    "tasks": [
+      {
+        "title": "API Development",
+        "description": "Develop and test new APIs for the mobile app.",
+        "date": "2024-11-19",
+        "category": "Development",
+        "active": true,
+        "newTask": true,
+        "completed": false,
+        "failed": false
+      },
+      {
+        "title": "Sprint Planning",
+        "description": "Plan tasks for the upcoming sprint with the team.",
+        "date": "2024-11-13",
+        "category": "Planning",
+        "active": false,
+        "newTask": false,
+        "completed": true,
+        "failed": false
+      },
+      {
+        "title": "Backend Refactoring",
+        "description": "Refactor backend code for better efficiency.",
+        "date": "2024-11-14",
+        "category": "Development",
+        "active": true,
+        "newTask": false,
+        "completed": false,
+        "failed": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "email": "employee5@example.com",
+    "password": "123",
+    "tasks": [
+      {
+        "title": "System Update",
+        "description": "Install updates on the company's servers.",
+        "date": "2024-11-13",
+        "category": "Maintenance",
+        "active": true,
+        "newTask": true,
+        "completed": false,
+        "failed": false
+      },
+      {
+        "title": "Inventory Check",
+        "description": "Check the inventory for hardware and software needs.",
+        "date": "2024-11-15",
+        "category": "Logistics",
+        "active": false,
+        "newTask": false,
+        "completed": false,
+        "failed": true
+      },
+      {
+        "title": "Security Audit",
+        "description": "Conduct a security audit of the company's IT infrastructure.",
+        "date": "2024-11-14",
+        "category": "Security",
+        "active": false,
+        "newTask": false,
+        "completed": true,
+        "failed": false
+      }
+    ]
+  }
+]
