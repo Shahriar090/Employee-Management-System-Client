@@ -71,7 +71,7 @@ const AdminForm = () => {
             name="description"
             id="description"
             placeholder="Enter Description"
-            rows={9}
+            rows={8}
           ></textarea>
           <button
             type="submit"
